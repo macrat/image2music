@@ -1,0 +1,3 @@
+[submodule "PyGenSound"]
+	path = PyGenSound
+	url = http://github.com/macrat/PyGenSound
